@@ -19,6 +19,10 @@ Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
 -   [ ] HTML
 -   [ ] CSS3
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://jj-automation.vercel.app/).
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
